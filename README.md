@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @christinmeln
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me: 
+- LinkedIn -> https://www.linkedin.com/in/christinmeln/
+- Telegram -> @imchrist
+- 
