@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ReactJS, HTML, CSS/SCSS, Git, TypeScript, Redux, Node.js
 - 📫 How to reach me: 
 - LinkedIn -> https://www.linkedin.com/in/christinmeln/
-- Telegram -> @imchrist
+- Telegram -> https://t.me/imchrist
 - Mail -> christinmiln@gmail.com
