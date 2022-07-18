@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christinmeln
+- 👋 Hi, I’m Kristina
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning ReactJS, HTML, CSS/SCSS, Git, TypeScript, Redux, Node.js
 - 📫 How to reach me: 
