@@ -1,4 +1,4 @@
-Hi, I'm Kristina 👋
+# Hi, I'm Kristina 👋
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/christinmeln/">
