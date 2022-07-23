@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Kristina
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning ReactJS, HTML, CSS/SCSS, Git, TypeScript, Redux, Node.js
 - 📫 How to reach me: 
 - LinkedIn -> https://www.linkedin.com/in/christinmeln/
 - Telegram -> https://t.me/imchrist
